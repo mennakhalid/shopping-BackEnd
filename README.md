@@ -1,2 +1,1 @@
-"# shopping" 
-"# shopping" 
+# shopping
